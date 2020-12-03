@@ -12,7 +12,7 @@ namespace CheckEvennumber
         {
             try
             {
-                Console.WriteLine("Podaj liczbe, a ja sprawdze czy jest parzysta");
+                Console.Write("Podaj liczbe: ");
 
                 var number = GetNumber();
 
